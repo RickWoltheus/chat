@@ -1,0 +1,16 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "testing socket.io with chat application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Woltheus",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io":"*",
+    "express":"*"
+  }
+}
